@@ -3,7 +3,7 @@ Realtek NIC Driver for FreeBSD
 
 This github repo is intended only as a central repository for the unmodiifed Realtek source code and a link to build instructions.
 
-Download the Realtek source code here:
+The Realtek source code was downloaded from here:
 - https://www.realtek.com/en/component/zoo/category/network-interface-controllers-10-100-1000m-gigabit-ethernet-pci-express-software
 
 Follow the build instructions here:
